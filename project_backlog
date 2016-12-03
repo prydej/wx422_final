@@ -1,0 +1,8 @@
+-Get all required variables from NOMADS servers
+    -
+-Get analogous obs data
+-Forecast cloud level, fog, precip from model data
+-Compare predicted cloud levels, fog, precip data to observed
+    -Linear Regression
+    -Find Correlation of line of best fit
+
